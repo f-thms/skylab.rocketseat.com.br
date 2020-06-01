@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <meta charset='UTF-8'>
+        <title>Curso JavaScript</title>
+    </head>
+    <body>
+        <div id='app'>
+            <input type="text" name="nome" id="nome" class="nome"/>
+            <button class="botao">Adicionar</button>
+        </div>
+
+        <script>
+            var inputElement = document.getElementById                          //Pega o elemento pelo Id
+                inputElement = document.getElementsByTagName('input')[0]        //Pega o elemento pelo TagName
+                inputElement = document.getElementsByClassName('nome')[0]       //Pega o elemento pelo ClassName
+                inputElement = document.querySelector('div#app input')          //Pega o elemento pelo querySelector, percorrendo pelo caminho da estrutura e retorna o primeiro elemento que coincidir com a pesquisa
+                inputElement = document.querySelector('input[name=nome]')
+            var btnElement = document.querySelector('button.botao')
+
+            btnElement.onclick = function() {
+                var text = inputElement.value
+                alert(text)
+            }
+        console.log(inputElement)
+        </script>
+    </body>
+</html>
