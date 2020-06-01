@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <meta charset='UTF-8'>
+        <title>Curso JavaScript</title>
+    </head>
+    <body>
+
+        <script>
+            //JavaScript
+            //AND, OR, NOT
+
+            var sexo = 'M', idade = 23
+            var masculino
+            var feminino = (sexo === 'F')
+
+            if(sexo === 'M' && idade >= 18){
+                console.log('Sexo é M e Idade é maior que 18')
+            }
+
+            if(sexo === 'F' || idade >= 18){
+                console.log('Sexo é F ou Idade é maior que 18')
+            }
+
+            if(sexo !== 'F'){
+                console.log('Sexo não é F')
+            }
+            
+            if(sexo === 'M'){
+                masculino = true
+            } else {
+                masculino = false
+            }
+
+            console.log('Masculino =', masculino)
+            console.log('Feminino = ', feminino)
+        </script>
+    </body>
+</html>
