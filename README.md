@@ -1,7 +1,7 @@
 # Atividades dos cursos da Skylab
 
-    Os arquivos presentes neste repositório são frutos do desenvolvimento das atividades dos cursos e conteúdos disponíveis (de forma gratuíta) na plataforma [Skylab](https://skylab.rocketseat.com.br/) da [RocketSeat](https://rocketseat.com.br/).
-    > Better than knowing, is teaching someone who doesn't know.
+Os arquivos presentes neste repositório são frutos do desenvolvimento das atividades dos cursos e conteúdos disponíveis (de forma gratuíta) na plataforma [Skylab](https://skylab.rocketseat.com.br/) da [RocketSeat](https://rocketseat.com.br/).
+> Better than knowing, is teaching someone who doesn't know.
 
 
 ## Estrutura de pastas:
