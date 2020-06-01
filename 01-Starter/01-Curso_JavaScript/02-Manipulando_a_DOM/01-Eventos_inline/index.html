@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <meta charset='UTF-8'>
+        <title>Curso JavaScript</title>
+    </head>
+    <body>
+        <div id='app'>
+            <button 
+                onclick="mostraAlerta('click')" 
+                onmouseover="mostraAlerta('mouseover')">Me Pressione</button>
+        </div>
+
+        <script>
+            function mostraAlerta(evento){
+                switch (evento){
+                    case 'click':
+                        alert('Botão foi clicado')
+                        break;
+                    case 'mouseover':
+                        alert('Mouse em cima do botão')
+                        break;
+                    default:
+                        break
+                }
+            }
+        </script>
+    </body>
+</html>
