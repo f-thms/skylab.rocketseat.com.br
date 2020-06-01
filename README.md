@@ -6,7 +6,7 @@ Os arquivos presentes neste repositório são frutos do desenvolvimento das ativ
 
 ## Estrutura de pastas:
 
-###[Starter](https://github.com/f-thms/skylab.rocketseat.com.br/tree/master/Starter/)
+### [Starter](https://github.com/f-thms/skylab.rocketseat.com.br/tree/master/Starter/)
 └───[JavaScript](https://github.com/f-thms/skylab.rocketseat.com.br/tree/master/Starter/JavaScript/)
     └───[Introdução JavaScript](https://github.com/f-thms/skylab.rocketseat.com.br/tree/master/Starter/JavaScript/Introducao_JavaScript)
         ├───[Configurando ambiente](https://github.com/f-thms/skylab.rocketseat.com.br/tree/master/Starter/JavaScript/Introducao_JavaScript/01-Configurando_ambiente)
